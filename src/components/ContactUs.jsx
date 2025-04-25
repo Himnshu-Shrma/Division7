@@ -13,8 +13,8 @@ function ContactUs() {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_8tlrtcl', 'template_sjb18z9', form.current, {
-        publicKey: 'oaChL0RTiJVtXt8pq',
+      .sendForm('service_ih7o74w', 'template_q55su6h', form.current, {
+        publicKey: 'GK0h1EUOLoG9QYvRy',
       })
       .then(
         () => {
