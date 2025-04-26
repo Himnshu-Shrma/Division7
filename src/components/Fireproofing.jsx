@@ -14,7 +14,7 @@ function Fireproofing() {
       <Navbar />
       <div>
         <div className="bg-dark text-white text-center py-5">
-          <h2 className="fw-bold my-5">FIREPROOFING IN VANCOUVER</h2>
+          <h2 className="fw-bold my-5">FIREPROOFING </h2>
           <p className="text-uppercase my-5" >Informations About Our Service</p>
         </div>
         <div className="container my-5 ">

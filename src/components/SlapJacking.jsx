@@ -8,7 +8,7 @@ function SlapJacking() {
             <Navbar />
 
             <div className="bg-dark text-white text-center py-5 ">
-                    <h1 className="fw-bold my-5">SLAB JACKING IN VANCOUVER</h1>
+                    <h1 className="fw-bold my-5">SLAB JACKING </h1>
                     <p className="my-5">INFORMATIONS ABOUT OUR SERVICE</p>
                 </div>
             

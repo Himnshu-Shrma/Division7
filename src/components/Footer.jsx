@@ -6,9 +6,9 @@ function Footer() {
             <div className="bg text-white footer__wrapper">
                 <div className="my-2">
                     <figure className='text-center'>
-                     <img src={icon} alt="" />   
+                        <img src={icon} alt="" />
                     </figure>
-                    
+
                     <p className='text-center'>
                         Established in 2019, Division 7contracting is full service spray foam, Fire Proofing and Fire Stopping Installer.
                         We are commited to sustaining the highest level of quality service and workmanship.
@@ -29,13 +29,13 @@ function Footer() {
                                 <a href="/">Home</a>
                             </p>
                             <p className='text-center footer-menu'>
-                                <a href="/about-us">About Us</a>
+                                <a href="/about">About Us</a>
                             </p>
                             <p className='text-center footer-menu'>
                                 <a href="/projects">Projects</a>
                             </p>
                             <p className='text-center footer-menu'>
-                                <a href="/contact-us">Contact Us</a>
+                                <a href="/contact">Contact Us</a>
                             </p>
                         </div>
                         <div className="menu-wrapper">
@@ -61,11 +61,11 @@ function Footer() {
                         Surrey, BC Canada
                     </p>
                     <p className='text-center'>
-                        {/* email icon */}
+                        <i class="fa-solid fa-envelope"></i>
                         projects@division7.ca
                     </p>
                     <p className='text-center'>
-                        {/* phone icon */}
+                        <i class="fa-solid fa-phone"></i>
                         (604) 728-1687
                     </p>
                 </div>

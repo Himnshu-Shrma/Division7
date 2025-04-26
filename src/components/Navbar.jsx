@@ -21,7 +21,7 @@ export default function Navbar() {
                                     <a className="nav-link active" aria-current="page" href="/">Home</a>
                                 </li>
                                 <li className="nav-item rounded px-2">
-                                    <a className="nav-link" href="/about-us">About Us</a>
+                                    <a className="nav-link" href="/about">About Us</a>
                                 </li>
 
                                 <li class="nav-item dropdown px-2">
@@ -38,7 +38,7 @@ export default function Navbar() {
                                     <a className="nav-link" href="/projects">Projects</a>
                                 </li>
                                 <li className="nav-item rounded px-2">
-                                    <a className="nav-link" href="contact-us">Contact Us</a>
+                                    <a className="nav-link" href="contact">Contact Us</a>
                                 </li>
                             </ul>
                         </div>

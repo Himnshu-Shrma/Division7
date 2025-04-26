@@ -14,7 +14,7 @@ function News() {
                 <h2 class="mb-4">Latest News</h2>
                 <div class="row gy-4 itemInnerContainer">
                     <div class="col-md-3">
-                        <a href="/spray-foam-insulation-in-vancouver">
+                        <a href="/spray-foam-insulation">
                             <div class="card position-relative">
                                 <img src={news1} class="card-img-top" alt="Polyurethane Spray" />
                                 <div class="date-badge">26th, May 2023</div>
@@ -28,7 +28,7 @@ function News() {
                         </a>
                     </div>
                     <div class="col-md-3">
-                        <a href="/spray-foam-insulation-in-vancouver">
+                        <a href="/spray-foam-insulation">
                             <div class="card position-relative">
                                 <img src={news3} class="card-img-top" alt="High Quality Insulation" />
                                 <div class="date-badge">20th, Dec 2022</div>
@@ -42,7 +42,7 @@ function News() {
                         </a>
                     </div>
                     <div class="col-md-3">
-                        <a href="/spray-foam-insulation-in-vancouver">
+                        <a href="/spray-foam-insulation">
                             <div class="card position-relative">
                                 <img src={news2} class="card-img-top" alt="Premium Advantages" />
                                 <div class="date-badge">29th, Nov 2022</div>
@@ -56,7 +56,7 @@ function News() {
                         </a>
                     </div>
                     <div class="col-md-3">
-                        <a href="/fireproofing-in-vancouver">
+                        <a href="/fireproofing">
                             <div class="card position-relative">
                                 <img src={news4} class="card-img-top" alt="Parkade Insulation" />
                                 <div class="date-badge">1st, Nov 2022</div>

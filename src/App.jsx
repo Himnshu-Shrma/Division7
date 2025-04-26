@@ -20,10 +20,10 @@ export default function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route exact path='/about-us' element={<AboutUs />} />
+            <Route exact path='/about' element={<AboutUs />} />
             <Route exact path='/projects' element={<Projects />} />
             <Route exact path='/blog' element={<Blog />} />
-            <Route exact path='/contact-us' element={<ContactUs />} />
+            <Route exact path='/contact' element={<ContactUs />} />
             <Route exact path='/services' element={<Services />} />
             <Route exact path='/fireproofing' element={<Fireproofing />} />
             <Route exact path='/slap-jacking' element={<SlapJacking />} />

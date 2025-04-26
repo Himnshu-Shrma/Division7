@@ -9,7 +9,7 @@ function SprayFoam() {
             <Navbar />
             <div>
                 <div className="bg-dark text-white text-center py-5 ">
-                    <h2 className="fw-bold my-5">SPRAY FOAM INSULATION IN VANCOUVER</h2>
+                    <h2 className="fw-bold my-5">SPRAY FOAM INSULATION </h2>
                     <p className="text-uppercase my-5">Informations About Our Service</p>
                 </div>
                 <div className="container">
