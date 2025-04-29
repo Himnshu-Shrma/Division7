@@ -41,13 +41,13 @@ function Footer() {
                         <div className="menu-wrapper">
 
                             <p className='text-center footer-menu'>
-                                <a href="">Slab Jacking</a>
+                                <a href="/slab-jacking">Slab Jacking</a>
                             </p>
                             <p className='text-center footer-menu'>
-                                <a href=""> Fire Proofing</a>
+                                <a href="/fireproofing"> Fire Proofing</a>
                             </p>
                             <p className='text-center footer-menu'>
-                                <a href="">Spray Foam Insulation</a>
+                                <a href="/spray-foam-insulation">Spray Foam Insulation</a>
                             </p>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ function Queries() {
         <span className="fs-5 mx-3">
           Get a free quote now or ask us a question, it's free, simple and fast. We will be happy to answer you.
         </span>
-        <a href="/contact-us" className="btn btn-light btn-sm mx-3">
+        <a href="/contact" className="btn btn-light btn-sm mx-3">
           GET A QUOTE
         </a>
       </div>

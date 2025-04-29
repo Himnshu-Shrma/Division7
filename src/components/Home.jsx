@@ -21,7 +21,7 @@ export default function Home() {
       </div>
 
 
-     
+
 
 
       <div className="container-fluid my-5">
@@ -96,10 +96,6 @@ export default function Home() {
           </button>
         </div>
       </div>
-
-
-
-      <News />
       <Queries />
       <Footer />
     </div>

@@ -11,7 +11,7 @@ import Projects from './components/Projects';
 import Blog from './components/Blog';
 import Fireproofing from './components/Fireproofing';
 import SprayFoam from './components/SprayFoam';
-import SlapJacking from './components/SlapJacking';
+import SlabJacking from './components/SlabJacking';
 
 export default function App() {
   return (
@@ -26,7 +26,7 @@ export default function App() {
             <Route exact path='/contact' element={<ContactUs />} />
             <Route exact path='/services' element={<Services />} />
             <Route exact path='/fireproofing' element={<Fireproofing />} />
-            <Route exact path='/slap-jacking' element={<SlapJacking />} />
+            <Route exact path='/slab-jacking' element={<SlabJacking />} />
             <Route exact path='/spray-foam-insulation' element={<SprayFoam />} />
 
           </Routes>

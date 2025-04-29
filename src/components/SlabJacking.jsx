@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
 
-function SlapJacking() {
+function SlabJacking() {
     return (
         <>
             <Navbar />
@@ -13,7 +13,7 @@ function SlapJacking() {
                 </div>
             
 
-            <div className="slapJacking container my-5">
+            <div className="slabJacking container my-5">
                 <div className="row">
                     <div className="col-12">
                         <p>
@@ -173,4 +173,4 @@ function SlapJacking() {
     )
 }
 
-export default SlapJacking
+export default SlabJacking

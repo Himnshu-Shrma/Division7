@@ -28,7 +28,7 @@ export default function Navbar() {
                                     <a class="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="/fireproofing">Fireproofing</a></li>
-                                        <li><a class="dropdown-item" href="/slap-jacking">Slap Jacking</a></li>
+                                        <li><a class="dropdown-item" href="/slab-jacking">Slab Jacking</a></li>
                                         <li><a class="dropdown-item" href="/spray-foam-insulation">Spray Foam Insulation</a></li>
                                     </ul>
                                 </li>
@@ -75,7 +75,7 @@ export default function Navbar() {
                             </div>
                         </div>
 
-                        <a className="bg-yellow px-2 py-1 my-2 rounded-lg font-semibold hover:bg-yellow-600" href='/contact-us'>
+                        <a className="bg-yellow px-2 py-1 my-2 rounded-lg font-semibold hover:bg-yellow-600" href='/contact'>
                             REQUEST AN ESTIMATE
                         </a>
                         
