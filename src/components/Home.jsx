@@ -2,12 +2,9 @@ import React from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
 import person from '../SiteIMage/Persons.jpg'
-import News from './News'
 import Queries from './Queries'
-import bg from '../Backgrounds/Building 1.webp'
 
 export default function Home() {
-  const bgStyle = { background: `url(${bg})` };
   return (
     <div>
       <Navbar />
